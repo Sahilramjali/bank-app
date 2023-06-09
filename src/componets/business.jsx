@@ -2,7 +2,14 @@
 
 const Business=()=>{
     return(
-        <div>Business</div>
+        <section className="flex flex-row">
+            <div>
+
+            </div>
+            <div>
+                
+            </div>
+        </section>
     )
 }
 
