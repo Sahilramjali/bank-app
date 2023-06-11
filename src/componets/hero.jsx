@@ -47,7 +47,7 @@ const Hero=()=>{
             </div>
             {/* if more than 620px then it gets hidden */}
             <div className={`ss:hidden ${styles.flexCenter}`}>
-                <GetStarted/>
+                <GetStarted />
             </div>
         </section> 
     )
