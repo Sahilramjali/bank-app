@@ -47,23 +47,29 @@ export const feedback=[
     {
         id: "feature-1",
         icon: star,
-        title: "Rewards",
+        title: "Founder & Leader",
         content:
           "The best credit cards offer some tantalizing combinations of promotions and prizes",
+        img:people01,
+        name:"Herman Jensen",
       },
       {
         id: "feature-2",
         icon: shield,
-        title: "100% Secured",
+        title: "Founder & Leader",
         content:
           "We take proactive steps make sure your information and transactions are secure.",
+        img:people02,  
+        name:"Steve Mark",
       },
       {
         id: "feature-3",
         icon: send,
-        title: "Balance Transfer",
+        title: "Founder & Leader",
         content:
           "A balance transfer credit card can save you a lot of money in interest charges.",
+        img:people03,  
+        name:"Kenn Gallagher",
       },
 ];
 
