@@ -3,7 +3,7 @@ import Hero from "./hero";
 import Billing from "./billing";
 import CardDeal from "./cardDeal";
 import Business from "./business";
-import Clinets from "./clients";
+import Clients from "./clients";
 import Cta from "./CTA";
 import Stats from "./stats";
 import Footer from "./footer";
@@ -15,7 +15,7 @@ export {
   Billing,
   CardDeal,
   Business,
-  Clinets,
+  Clients,
   Cta,
   Stats,
   Footer,
